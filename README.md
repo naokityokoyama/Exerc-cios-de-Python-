@@ -1,2 +1,2 @@
-# Exercicios-de-Python-Estrutura-Sequencial
+# Exercicios-de-Python
 Lista de Exercícios de Python resolvdas
